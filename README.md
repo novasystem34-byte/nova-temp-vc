@@ -1,4 +1,5 @@
-# بوت الرومات الصوتية المؤقتة (Temp Voice Bot)
+# بوت الرومات الصوتية المؤقتة
+     [![Donate](https://img.shields.io/badge/Donate-PayPal-00457C?logo=paypal)](https://paypal.me/Alaaabushamaa)           (Temp Voice Bot)
 
 بوت ديسكورد بايثون كامل ينشئ رومات صوتية مؤقتة تلقائياً لكل عضو، مع لوحة تحكم خاصة بصاحب كل روم، وحفظ البيانات في ملفات JSON.
 
